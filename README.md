@@ -1,6 +1,6 @@
 # AI5100 Hackathon
 
-**Note:** Unfortunately, the code used to generate the plots in this presentation has been lost/deleted.
+**Note:** Unfortunately, the code used to generate the plots in this [presentation](https://github.com/dnshkmr7/ilsvrc-hackathon/blob/main/AI5100_%20Presentation.pdf) has been lost/deleted.
 
 ## Overview
 
