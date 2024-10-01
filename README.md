@@ -1,5 +1,7 @@
 # AI5100 Hackathon
 
+**Note:** Unfortunately, the code used to generate the plots in this presentation has been lost/deleted.
+
 ## Overview
 
 This project focuses on multi-class classification, using a dataset containing 50 classes. The dataset is a subset of the ILSVRC dataset.
